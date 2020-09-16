@@ -1,0 +1,9 @@
+uname - 
+uname -a
+ls - 
+pwd - 
+whoami
+ls -l - 
+echo $0
+sh
+who
